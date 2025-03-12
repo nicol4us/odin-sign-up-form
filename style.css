@@ -17,10 +17,12 @@ body {
 
 .form-element {
     display: flex;
-    flex-direction: column;
+    flex-direction: column;   
+   
 }
 
 .form-row {
     display: flex;
     margin-bottom: 16px;
+    gap: 50px;
 }
