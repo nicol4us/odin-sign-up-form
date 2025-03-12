@@ -32,3 +32,15 @@ form {
     flex-wrap: wrap;
     gap: 16px;
 }
+
+.header-form {
+    height: 40vh;
+}
+
+.content-form {
+    height: 30vh;
+}
+
+button {
+    margin-top: 32px;
+}
