@@ -33,7 +33,8 @@ form {
     gap: 16px;
 }
 
-.header-form {    
+.header-form {   
+    width: 35vw; 
     height: 40vh;
     font-size: 20px;
     font-weight: bold;
@@ -50,4 +51,6 @@ button {
 .confirmation {
     margin-top: 16px;
 }
+
+
 
