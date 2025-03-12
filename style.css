@@ -23,6 +23,7 @@ body {
 
 .form-row {
     display: flex;
-    margin-bottom: 16px;
-    gap: 50px;
+    margin-bottom: 16px; 
+   
+    flex-wrap: wrap;
 }
