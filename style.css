@@ -8,6 +8,10 @@ body {
     display: flex;
 }
 
+form {
+    margin-left: 32px;
+}
+
 .left-container {   
    background-image: url("halie-west-25xggax4bSA-unsplash.jpg");
    background-size: 30vw 100vh;
