@@ -33,8 +33,10 @@ form {
     gap: 16px;
 }
 
-.header-form {
+.header-form {    
     height: 40vh;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .content-form {
@@ -48,3 +50,4 @@ button {
 .confirmation {
     margin-top: 16px;
 }
+
