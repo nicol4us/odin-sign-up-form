@@ -14,3 +14,8 @@ body {
    width: 30vw;
    height: 100vh;
 }
+
+.form-element {
+    display: flex;
+    flex-direction: column;
+}
