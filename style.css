@@ -42,14 +42,15 @@ form {
 }
 
 .logo-heading {
-    position: absolute;
-    display: flex;
+    position: absolute;    
+    display: flex;    
     height: 80%;
 }
 
 .logo-title {
     color: white;
     font-size: 4rem;
+    margin: auto;
 }
 
 .form-element {
