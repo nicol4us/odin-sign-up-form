@@ -41,8 +41,9 @@ form {
     opacity: 0.6;
 }
 
-.logo-image {
+.logo-heading {
     position: absolute;
+    display: flex;
     height: 80%;
 }
 
