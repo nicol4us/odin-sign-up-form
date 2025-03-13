@@ -23,6 +23,13 @@ form {
     z-index: -1;
 }
 
+.logo-body {
+    width: 100%;
+    height: 20vh;
+    background-color: black;
+    opacity: 0.6;
+}
+
 .form-element {
     display: flex;
     flex-direction: column; 
