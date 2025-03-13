@@ -12,9 +12,7 @@ form {
     margin-left: 32px;
 }
 
-.left-container {   
-   background-image: url("halie-west-25xggax4bSA-unsplash.jpg");
-   background-size: 30vw 100vh;
+.left-container {      
    width: 30vw;
    height: 100vh;
 }
