@@ -34,6 +34,10 @@ form {
     opacity: 0.6;
 }
 
+.logo-image {
+    height: 80%;
+}
+
 .form-element {
     display: flex;
     flex-direction: column; 
