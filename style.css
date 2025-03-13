@@ -47,6 +47,11 @@ form {
     height: 80%;
 }
 
+.logo-title {
+    color: white;
+    font-size: 4rem;
+}
+
 .form-element {
     display: flex;
     flex-direction: column; 
