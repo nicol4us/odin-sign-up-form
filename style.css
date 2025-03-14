@@ -83,6 +83,11 @@ form {
 
 button {
     margin-top: 32px;
+    padding: 10px 30px;
+    font-weight: bold;
+    color: white;
+    background-color: #596D48;
+    border-radius: 5px;
 }
 
 .confirmation {
