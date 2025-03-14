@@ -70,15 +70,22 @@ form {
     gap: 16px;
 }
 
-.header-form {   
-    width: 35vw; 
+.header-form {      
     height: 40vh;
     font-size: 20px;
     font-weight: bold;
+    background-color: #f9fafb;
 }
 
 .content-form {
     height: 30vh;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.bottom-form {
+    height: 30vh;
+    background-color: #f9fafb;
 }
 
 button {
@@ -93,6 +100,7 @@ button {
 .confirmation {
     margin-top: 16px;
 }
+
 
 
 
