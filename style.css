@@ -13,10 +13,6 @@ body {
     display: flex;
 }
 
-form {
-    margin-left: 32px;
-}
-
 .left-container {    
    position: relative;   
    width: 30vw;
