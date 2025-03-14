@@ -1,3 +1,8 @@
+@font-face {
+    font-family: norse-bold;
+    src: url(Norse-Bold.woff);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -54,6 +59,7 @@ form {
     color: white;
     font-size: 4rem;
     margin: auto;
+    font-family: norse-bold, sans-serif;
 }
 
 .form-element {
