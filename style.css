@@ -72,20 +72,24 @@ body {
     gap: 16px;
 }
 
-.header-form {      
+.header-form {  
+    padding-left: 50px;
+    padding-right: 400px;
     height: 40vh;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: bold;
     background-color: #f9fafb;
 }
 
 .content-form {
+    padding-left: 50px;
     height: 30vh;
     margin-top: 16px;
     margin-bottom: 16px;
 }
 
 .bottom-form {
+    padding-left: 50px;
     height: 30vh;
     background-color: #f9fafb;
 }
