@@ -116,6 +116,11 @@ button {
     border-radius: 5px;
 }
 
+a {
+    color: #596D48;
+    text-decoration: none;
+}
+
 .confirmation {
     margin-top: 16px;
 }
