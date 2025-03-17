@@ -15,7 +15,7 @@ body {
 
 .left-container {    
    position: relative;   
-   width: 30vw;
+   width: 35vw;
    height: 100vh;
 }
 
@@ -58,6 +58,10 @@ body {
     font-family: norse-bold, sans-serif;
 }
 
+form {
+    height: 100vh;
+}
+
 .form-element {
     display: flex;
     flex-direction: column; 
@@ -75,7 +79,7 @@ body {
 .header-form {  
     padding-left: 50px;
     padding-right: 400px;
-    height: 30vh;
+    height: 30%;
     font-size: 24px;
     font-weight: bold;
     background-color: #f9fafb;
@@ -83,14 +87,14 @@ body {
 
 .content-form {
     padding-left: 50px;
-    height: 30vh;
+    height: 30%;
     margin-top: 16px;
     margin-bottom: 40px;
 }
 
 .bottom-form {
     padding-left: 50px;
-    height: 40vh;
+    height: 30%;
     background-color: #f9fafb;
 }
 
