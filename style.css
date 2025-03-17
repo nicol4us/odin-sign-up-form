@@ -75,7 +75,7 @@ body {
 .header-form {  
     padding-left: 50px;
     padding-right: 400px;
-    height: 40vh;
+    height: 30vh;
     font-size: 24px;
     font-weight: bold;
     background-color: #f9fafb;
@@ -90,7 +90,7 @@ body {
 
 .bottom-form {
     padding-left: 50px;
-    height: 30vh;
+    height: 40vh;
     background-color: #f9fafb;
 }
 
