@@ -122,6 +122,9 @@ input:focus {
     box-shadow: 0 0 2px 2px rgb(0 0 0 / 0.2);
 }
 
+input:invalid {
+    border: 1px solid red;
+}
 
 
 
