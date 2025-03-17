@@ -107,6 +107,12 @@ button {
     margin-top: 16px;
 }
 
+input {
+    border: 1px solid #E5E7EB;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
 
 
 
